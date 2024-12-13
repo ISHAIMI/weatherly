@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Admin\Desktop\Weatherly\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\7ed033c48bc4a873e6b691e4c48cabce\nuget-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Admin\Desktop\Weatherly\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\7ed033c48bc4a873e6b691e4c48cabce\nuget-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Admin\Desktop\Weatherly\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\7ed033c48bc4a873e6b691e4c48cabce\nuget-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Admin\Desktop\Weatherly\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\7ed033c48bc4a873e6b691e4c48cabce\nuget-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Admin\Desktop\Weatherly\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\7ed033c48bc4a873e6b691e4c48cabce\nuget-populate-copyfile.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Admin\Desktop\Weatherly\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\7ed033c48bc4a873e6b691e4c48cabce\nuget-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Admin\Desktop\Weatherly\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\7ed033c48bc4a873e6b691e4c48cabce\nuget-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Admin\Desktop\Weatherly\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\7ed033c48bc4a873e6b691e4c48cabce\nuget-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Admin\Desktop\Weatherly\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\7ed033c48bc4a873e6b691e4c48cabce\nuget-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Admin\Desktop\Weatherly\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\7daeb45a70bf1889a4fcb0c162f86954\nuget-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Admin\Desktop\Weatherly\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\363af7d8a1cbccd8347d581d32ba0d66\nuget-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Admin\Desktop\Weatherly\build\windows\x64\_deps\nuget-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Admin\Desktop\Weatherly\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\nuget-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{C9C726BB-3C45-3B9E-8665-EAE50D4DECBD}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,10 @@
+^C:\USERS\ADMIN\DESKTOP\WEATHERLY\BUILD\WINDOWS\X64\CMAKEFILES\AA9ABE747512793EB6B0BE794A053A35\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/Admin/Desktop/Weatherly/windows -BC:/Users/Admin/Desktop/Weatherly/build/windows/x64 --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Admin/Desktop/Weatherly/build/windows/x64/flutter_weather.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

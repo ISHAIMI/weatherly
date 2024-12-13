@@ -1,0 +1,10 @@
+^C:\USERS\ADMIN\DESKTOP\WEATHERLY\BUILD\WINDOWS\X64\CMAKEFILES\AA9ABE747512793EB6B0BE794A053A35\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

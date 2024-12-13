@@ -1,0 +1,28 @@
+^C:\USERS\ADMIN\DESKTOP\WEATHERLY\BUILD\WINDOWS\X64\CMAKEFILES\16DD7E839611813463D36CF8AB312282\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\Users\Admin\OneDrive\Desktop\flutter PROJECT_DIR=C:\Users\Admin\Desktop\Weatherly FLUTTER_ROOT=C:\Users\Admin\OneDrive\Desktop\flutter FLUTTER_EPHEMERAL_DIR=C:\Users\Admin\Desktop\Weatherly\windows\flutter\ephemeral PROJECT_DIR=C:\Users\Admin\Desktop\Weatherly FLUTTER_TARGET=C:\Users\Admin\Desktop\Weatherly\lib\main.dart DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false PACKAGE_CONFIG=C:\Users\Admin\Desktop\Weatherly\.dart_tool\package_config.json C:/Users/Admin/OneDrive/Desktop/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\ADMIN\DESKTOP\WEATHERLY\BUILD\WINDOWS\X64\CMAKEFILES\068E3ACB8B20AB99F74EE062C4EC801C\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\ADMIN\DESKTOP\WEATHERLY\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/Admin/Desktop/Weatherly/windows -BC:/Users/Admin/Desktop/Weatherly/build/windows/x64 --check-stamp-file C:/Users/Admin/Desktop/Weatherly/build/windows/x64/flutter/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

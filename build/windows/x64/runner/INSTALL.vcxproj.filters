@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Admin\Desktop\Weatherly\build\windows\x64\CMakeFiles\988a5fe0c8b389058294338c89c26875\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{5C127583-C306-3200-BF96-283453B6E9A6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
